@@ -1,0 +1,1094 @@
+[
+    {
+        "id":"FOLIO_test_1014_380",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople in this club who perform in school talent shows often attend and are very engaged with school events. People in this club perform in school talent shows often or are inactive and disinterested community members, or both. People in this club who chaperone high school dances are not students who attend the school. All people in this club who are inactive and disinterested members of their community chaperone high school dances. All young children and teenagers in this club who wish to further their academic careers and educational opportunities are students who attend the school. Bonnie is in this club and she either both attends and is very engaged with school events and is a student who attends the school or is not someone who both attends and is very engaged with school events and is not a student who attends the school.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Bonnie performs in school talent shows often.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1014_380",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople in this club who perform in school talent shows often attend and are very engaged with school events. People in this club either perform in school talent shows often or are inactive and disinterested community members. People in this club who chaperone high school dances are students and go to school. All people in this club who are inactive and disinterested members of their community chaperone high school dances. All young children and teenagers in this club who wish to further their academic careers and educational opportunities are students who attend the school. Bonnie is in this club and she either both attends and is very engaged with school events and is a student who attends the school or is not someone who both attends and is very engaged with school events and is not a student who attends the school.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Bonnie performs in school talent shows often.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1014_380",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople in this club who perform in school talent shows often attend and are very engaged with school events. People in this club either perform in school talent shows often or are inactive and disinterested community members. People in this club who chaperone high school dances are not students who attend the school. All people in this club who are inactive and disinterested members of their community chaperone high school dances. Everyone who is in this club, and is either a young child or a teenager, and wishes to further their academic career, is a student and goes to school. Bonnie is in this club and she either both attends and is very engaged with school events and is a student who attends the school or is not someone who both attends and is very engaged with school events and is not a student who attends the school.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Bonnie performs in school talent shows often.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1014_380",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople in this club who perform in school talent shows often attend and are very engaged with school events. People in this club either perform in school talent shows often or are inactive and disinterested community members. People in this club who chaperone high school dances are not students who attend the school. All people in this club who are inactive and disinterested members of their community chaperone high school dances. All young children and teenagers in this club who wish to further their academic careers and educational opportunities are students who attend the school. Bonnie is in this club and either Bonnie attends school events and is very engaged with them, or Bonnie is a student and goes to school, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Bonnie performs in school talent shows often.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1208_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Every employee has lunch in the company building or at home, or both. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James has lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1208_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in their home country work from home. No managers work remotely from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James has lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1208_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. All managers work from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James has lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1208_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James is not a manager and James does not appear in the company.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James has lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1208_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James is either a manager or appears in the company, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James has lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1209_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Every employee has lunch in the company building or at home, or both. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James does not have lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1209_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in their home country work from home. No managers work remotely from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James does not have lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1209_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. All managers work from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James does not have lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1209_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James is not a manager and James does not appear in the company.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James does not have lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1209_426",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James is either a manager or appears in the company, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? James does not have lunch in the company.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1210_426",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. All employees have lunch in the company building or at home, or both. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If James is either a manager or in other countries,  then James does not either has lunch at home or work remotely from home. If James either has lunch at home or works remotely from home, then he is neither a manager nor does he work in other countries. [contrapositive is more natural]\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1210_426",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in their home country work from home. No managers work remotely from home. James will appear in the company today if and only if he is a manager.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If James is either a manager or in other countries,  then James does not either has lunch at home or work remotely from home. If James either has lunch at home or works remotely from home, then he is neither a manager nor does he work in other countries. [contrapositive is more natural]\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1210_426",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James is not a manager and James does not appear in the company.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If James is either a manager or in other countries,  then James does not either has lunch at home or work remotely from home. If James either has lunch at home or works remotely from home, then he is neither a manager nor does he work in other countries. [contrapositive is more natural]\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1210_426",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll employees who schedule a meeting with their customers will go to the company building today. Everyone who has lunch in the company building schedules meetings with their customers. Employees have lunch either in the company building or at home. If an employee has lunch at home, they are working remotely from home. All employees who are in other countries work remotely from home. No managers work remotely from home. James is either a manager or appears in the company, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If James is either a manager or in other countries,  then James does not either has lunch at home or work remotely from home. If James either has lunch at home or works remotely from home, then he is neither a manager nor does he work in other countries. [contrapositive is more natural]\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_563_198",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Some symptom of Monkeypox is (fever and headache) or muscle pain or tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? There is an animal.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_563_198",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There exists a symptom of monkeypox virus that is a fever, or is a headache and muscle pain, or is tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? There is an animal.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_563_198",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. At least one symptom of Monkeypox is fever, or headache, or both muscle pain and tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? There is an animal.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_563_198",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is either fever, or it is headache, muscle pain, or tiredness, but it is not both fever and any of headache, muscle pain, or tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? There is an animal.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_563_198",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is fever, or is tiredness, or is either headache or muscle pain but not both. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? There is an animal.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_563_198",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of Monkeypox virus that is fever, or headache, or is either muscle pain or tiredness but not both. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? There is an animal.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_564_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is (fever and headache) or muscle pains or tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No one gets the flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_564_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Monkeypox virus has a symptom that is fever, or is both headache and muscle pain, or is tired. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No one gets the flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_564_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Monkeypox virus has a symptom that is fever, or is headache, or is both muscle pain and tired. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No one gets the flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_564_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is either fever, or it is headache, muscle pain, or tiredness (or any combination of these), but not both fever and any of headache, muscle pain, or tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No one gets the flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_564_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Some symptom of monkeypox virus is fever, or is either headache or muscle pain (but not both), or is tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No one gets the flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_564_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Some symptom of monkeypox virus is fever, or headache, or either muscle pain or tiredness (but not both). People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No one gets the flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_565_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Some symptom of monkeypox virus is (fever and headache) or muscle pains or tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Symptoms of Monkeypox include coughing.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_565_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. Monkeypox virus has at least one symptom that is either fever, or is both headache and muscle pain, or is tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Symptoms of Monkeypox include coughing.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_565_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is fever, or headache, or both muscle pain and tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Symptoms of Monkeypox include coughing.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_565_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is either fever, or at least one of headache, muscle pain, or tiredness, but not both fever and at least one of headache, muscle pain, or tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Symptoms of Monkeypox include coughing.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_565_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There exists a symptom of monkeypox virus that is fever, or is either headache or muscle pain (but not both), or is tiredness. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Symptoms of Monkeypox include coughing.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_565_198",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nWhen the Monkeypox virus occurs in a being, it may get Monkeypox. Monkeypox virus can occur in certain animals. Humans are mammals. Mammals are animals. There is a symptom of monkeypox virus that is fever, or headache, or either muscle pain or tiredness, but not both. People feel tired when they get the flu.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Symptoms of Monkeypox include coughing.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey and an Osceola wild turkey, or a Gould\u2019s wild turkey, or a Merriam\u2019s wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or is both an Osceola wild turkey and a Gould's wild turkey, or is a Merriam's wild turkey, or is a Rio Grande wild turkey, or is an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or both a Gould's wild turkey and a Merriam's wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or a Gould's wild turkey, or both a Merriam's wild turkey and a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or a Gould's wild turkey, or a Merriam's wild turkey, or both a Rio Grande wild turkey and an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey or an Osceola wild turkey (but not both), or a Gould\u2019s wild turkey, or a Merriam\u2019s wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or it is either an Osceola wild turkey or a Gould's wild turkey (but not both), or it is a Merriam's wild turkey, or it is a Rio Grande wild turkey, or it is an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or either a Gould's wild turkey or a Merriam's wild turkey (but not both), or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, an Osceola wild turkey, a Gould's wild turkey, an Ocellated wild turkey, or it is either a Merriam's wild turkey or a Rio Grande wild turkey, but not both. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_0_0",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey, an Osceola wild turkey, a Gould's wild turkey, a Merriam's wild turkey, or a Rio Grande wild turkey, OR it is an Ocellated wild turkey, but not both. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Ocellated wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey and an Osceola wild turkey, or a Gould\u2019s wild turkey, or a Merriam\u2019s wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or is both an Osceola wild turkey and a Gould's wild turkey, or is a Merriam's wild turkey, or is a Rio Grande wild turkey, or is an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey, an Osceola wild turkey, a Gould's wild turkey and a Merriam's wild turkey, a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey, an Osceola wild turkey, a Gould's wild turkey, both a Merriam's wild turkey and a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey or an Osceola wild turkey (but not both), or a Gould's wild turkey, or a Merriam's wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or is either an Osceola wild turkey or a Gould's wild turkey (but not both), or is a Merriam's wild turkey, or is a Rio Grande wild turkey, or is an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey, an Osceola wild turkey, or a Gould's wild turkey, or it is a Merriam's wild turkey, a Rio Grande wild turkey, or an Ocellated wild turkey, but not both. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, an Osceola wild turkey, a Gould\u2019s wild turkey, or an Ocellated wild turkey, or it is either a Merriam\u2019s wild turkey or a Rio Grande wild turkey, but not both. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or a Gould's wild turkey, or a Merriam's wild turkey, or it is either a Rio Grande wild turkey or an Ocellated wild turkey, but not both. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is not both a Merriam's wild turkey and a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is both a Merriam's wild turkey and a Rio Grande wild turkey, or Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1_0",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is a Merriam's wild turkey or a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is an Eastern wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey and an Osceola wild turkey, or a Gould's wild turkey, or a Merriam's wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or is both an Osceola wild turkey and a Gould's wild turkey, or is a Merriam's wild turkey, or is a Rio Grande wild turkey, or is an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, an Osceola wild turkey, both a Gould's wild turkey and a Merriam's wild turkey, a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or a Gould's wild turkey, or a Merriam's wild turkey and a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is either an Eastern wild turkey or an Osceola wild turkey (but not both), or a Gould\u2019s wild turkey, or a Merriam\u2019s wild turkey, or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or it is either an Osceola wild turkey or a Gould's wild turkey (but not both), or it is a Merriam's wild turkey, or it is a Rio Grande wild turkey, or it is an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or either a Gould's wild turkey or a Merriam's wild turkey (but not both), or a Rio Grande wild turkey, or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is an Eastern wild turkey, or an Osceola wild turkey, or a Gould's wild turkey, or either a Merriam's wild turkey or a Rio Grande wild turkey (but not both), or an Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery wild turkey is either an Eastern, Osceola, Gould's, Merriam's, or Rio Grande wild turkey, or it is an Ocellated wild turkey, but not both. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is a Gould's wild turkey. Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is not both a Merriam's wild turkey and a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is both a Merriam's wild turkey and a Rio Grande wild turkey, or Tom is neither a Merriam's wild turkey nor a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_2_0",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThere are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild turkey, Rio Grande wild turkey, and Ocellated wild turkey. Tom is not an Eastern wild turkey. Tom is not an Osceola wild turkey. Tom is not a Gould's wild turkey. Tom is a Merriam's wild turkey or a Rio Grande wild turkey. Tom is a wild turkey.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joey is a wild turkey.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1361_471",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. Everything that can be spotted near the campus is a rabbit or a squirrel. If something is skittish, then it is not calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Rockie is a turtle.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1361_471",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. The only animals that can be spotted near the campus are rabbits and squirrels. If something is skittish, then it is calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Rockie is a turtle.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1362_471",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. Everything that can be spotted near the campus is a rabbit or a squirrel, or both. If something is skittish, then it is not calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Rockie is not a turtle.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1362_471",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. The only animals that can be spotted near the campus are rabbits and squirrels. If something is skittish, then it is calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Rockie is not a turtle.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1363_471",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. Everything that can be spotted near the campus is a rabbit or a squirrel, or both. If something is skittish, then it is not calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Rockie is a turtle or cute.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1364_471",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. Everything that can be spotted near the campus is a rabbit or a squirrel. If something is skittish, then it is not calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If Rockie is not both a turtle and a squirrel, then Rockie is either cute or skittish.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1365_471",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nAll rabbits that can be spotted near the campus are cute. Some turtles can be spotted near the campus. Any animal that can be spotted near the campus is a rabbit or a squirrel. If something is skittish, then it is not calm. All the squirrels that can be spotted near the campus are skittish. Rockie can be spotted near the campus, and it is calm.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If Rockie is cute and calm, then Rockie is a skittish turtle.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_530_184",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\n\"Stranger Things\" is a popular Netflix show. If a Netflix show is popular, Karen will binge-watch it. If and only if Karen binge-watches a Netflix show, she will download it. Karen downloads \"Black Mirror.\" \"Black Mirror\" is a Netflix show. If Karen binge-watches a Netflix show, she will share it with Lisa.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Karen will share \"Stranger Things\" with Lisa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1301_452",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll aliens are extraterrestrials. If someone is from Mars, then they are an alien. All extraterrestrials are human. All highly intelligent beings from Earth are humans. Marvin is a highly intelligent being. Marvin is either from Earth and from Mars, or he is from neither. If Marvin is not from Earth, then Marvin is an extraterrestrial.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Marvin is an alien.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1301_452",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll aliens are extraterrestrials. If someone is from Mars, then they are an alien. No extraterrestrials are human. All highly intelligent beings from Earth are humans. Marvin is a highly intelligent being. Marvin is neither from Earth nor from Mars. If Marvin is not from Earth, then Marvin is an extraterrestrial.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Marvin is an alien.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1301_452",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll aliens are extraterrestrials. If someone is from Mars, then they are an alien. No extraterrestrials are human. All highly intelligent beings from Earth are humans. Marvin is a highly intelligent being. Marvin is either from Earth or from Mars, but not both. If Marvin is not from Earth, then Marvin is an extraterrestrial.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Marvin is an alien.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1301_452",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll aliens are extraterrestrials. If someone is from Mars, then they are an alien. No extraterrestrials are human. All highly intelligent beings from Earth are humans. Marvin is a highly intelligent being. Marvin is either from Earth and from Mars, or he is from neither. If Marvin is from Earth, then Marvin is an extraterrestrial.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Marvin is an alien.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1302_452",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll aliens are extraterrestrials. If someone is from Mars, then they are an alien. No extraterrestrials are human. All highly intelligent beings from Earth are humans. Marvin is a highly intelligent being. Marvin is from neither Earth nor Mars. If Marvin is not from Earth, then Marvin is an extraterrestrial.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Marvin is neither a human nor from Mars.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1303_452",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nAll aliens are extraterrestrials. If someone is from Mars, then they are an alien. No extraterrestrials are human. All highly intelligent beings from Earth are humans. Marvin is a highly intelligent being. Marvin is neither from Earth nor from Mars. If Marvin is not from Earth, then Marvin is an extraterrestrial.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If Marvin is not from Mars, then Marvin is a human.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_893_340",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone at the mixer is either a Grand Slam champion or an Oscar-nominated actor, but not both. Every Grand Slam champion at the mixer is a professional tennis player. All Oscar-nominated actors at the mixer are celebrities. All professional tennis players at the mixer are athletes. If a person at the mixer is a celebrity, then they are well paid. If a person at the mixer is an athlete, then they are famous. All well-paid people at the mixer live in tax havens. Djokovic is at the mixer: if Djokovic is a famous athlete, then Djokovic is well-paid.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Djokovic is a Grand Slam champion.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_894_340",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEveryone at the mixer is a Grand Slam champion and an Oscar-nominated actor. Every Grand Slam champion at the mixer is a professional tennis player. All Oscar-nominated actors at the mixer are celebrities. All professional tennis players at the mixer are athletes. If a person at the mixer is a celebrity, then they are well paid. If a person at the mixer is an athlete, then they are famous. All well-paid people at the mixer live in tax havens. Djokovic is at the mixer: if Djokovic is a famous athlete, then Djokovic is well-paid.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Djokovic lives in a tax haven.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_894_340",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEveryone at the mixer is either a Grand Slam champion or an Oscar-nominated actor, but not both. Every Grand Slam champion at the mixer is a professional tennis player. All Oscar-nominated actors at the mixer are celebrities. All professional tennis players at the mixer are athletes. If a person at the mixer is a celebrity, then they are well paid. If a person at the mixer is an athlete, then they are famous. All well-paid people at the mixer live in tax havens. Djokovic is at the mixer: if Djokovic is a famous athlete, then Djokovic is well-paid.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Djokovic lives in a tax haven.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_895_340",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEveryone at the mixer is a Grand Slam champion and an Oscar-nominated actor. Every Grand Slam champion at the mixer is a professional tennis player. All Oscar-nominated actors at the mixer are celebrities. All professional tennis players at the mixer are athletes. If a person at the mixer is a celebrity, then they are well paid. If a person at the mixer is an athlete, then they are famous. All well-paid people at the mixer live in tax havens. Djokovic is at the mixer: if Djokovic is a famous athlete, then Djokovic is well-paid.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Djokovic does not live in a tax haven.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_895_340",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEveryone at the mixer is either a Grand Slam champion or an Oscar-nominated actor, but not both. Every Grand Slam champion at the mixer is a professional tennis player. All Oscar-nominated actors at the mixer are celebrities. All professional tennis players at the mixer are athletes. If a person at the mixer is a celebrity, then they are well paid. If a person at the mixer is an athlete, then they are famous. All well-paid people at the mixer live in tax havens. Djokovic is at the mixer: if Djokovic is a famous athlete, then Djokovic is well-paid.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Djokovic does not live in a tax haven.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_927_350",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll of Zaha Hadid's design styles that Max adores have interesting geometries. Every brutalist building that Max adores has interesting geometry. Every style that Max adores is either Zaha Hadid's design style or Kelly Wearstler's design style. All of Kelly Wearstler's design styles that Max adores are evocative. All of Kelly Wearstler's design styles that Max adores are dreamy. If a design by Max that he adores has interesting geometries, then the design is a brutalist building and evocative.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? A design by Max is a brutalist building.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_927_350",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll of Zaha Hadid's design styles that Max adores have interesting geometries. No brutalist buildings that Max adores have interesting geometries. Every style that Max adores is Zaha Hadid's design style or Kelly Wearstler's design style, or both. All of Kelly Wearstler's design styles that Max adores are evocative. All of Kelly Wearstler's design styles that Max adores are dreamy. If a design by Max that he adores has interesting geometries, then the design is a brutalist building and evocative.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? A design by Max is a brutalist building.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_700_256",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll cats are mammals. Some pets are mammals.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? No pets are cats.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_904_343",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll digital media are analog media. Every printed text is analog media. All streaming services are digital media. If an object is a hardcover book, then it is printed text. If 1984 is a streaming service, then 1984 is a hardcover book.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? 1984 is printed text.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_609_213",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll Romance languages are Indo-European languages. Romance languages are a language family. All languages within a language family are related to each other. French and Spanish are both Romance languages. German is related to Spanish. Basque is related to every language.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? German is a Romance language.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_610_213",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll Romance languages are Indo-European languages. Romance languages are a language family. All languages within a language family are related to each other. French and Spanish are both Romance languages. German is related to Spanish. Basque is related to every language.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? French is an Indo-European language.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_240_79",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nRobert Lewandowski is a striker. Strikers are soccer players. Robert Lewandowski left Bayern Munchen. If a player leaves a team, they play for that team.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Robert Lewandowski is a soccer player.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_242_79",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nRobert Lewandowski is a striker. Strikers are soccer players. Robert Lewandowski left Bayern Munchen. If a player leaves a team, then they play for that team.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Robert Lewandowski is a star.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1271_442",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll Brown Swiss cattle are cows. Some pets are Brown Swiss Cattle. All cows are domesticated animals. Alligators are domesticated animals. Ted is an alligator.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Ted is a pet.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_819_322",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll growth stocks are bought to earn profits from rapid price appreciation. If a stock is bought to earn profits from rapid price appreciation, then it is suitable for a retirement fund. Some stocks are growth stocks. All mature stocks are suitable for a retirement fund. KO is a mature stock.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? KO is a stock.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_253_83",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll vehicle registration plates in Istanbul begin with the number 34. Plates that begin with the number 34 are not from Istanbul. Joe's vehicle registration plate is from Istanbul. Tom's license plate begins with the number 35. If a license plate begins with the number 35, then it does not begin with the number 34.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joe's license plate begins with the number 34.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_253_83",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll vehicle registration plates in Istanbul begin with the number 34. Every plate that does not begin with the number 34 is from Istanbul. Joe's vehicle registration plate is from Istanbul. Tom's license plate begins with the number 35. If a license plate begins with the number 35, then it does not begin with the number 34.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joe's license plate begins with the number 34.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_253_83",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll vehicle registration plates in Istanbul begin with the number 34. Plates that do not begin with the number 34 are not from Istanbul. Joe's vehicle registration plate is from Istanbul. Tom's license plate begins with the number 35. If a license plate begins with the number 35, then it begins with the number 34.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Joe's license plate begins with the number 34.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_805_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy and mala hotpots, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_805_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are mala hotpots and not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_805_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are either spicy or mala hotpots (but not both), or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_805_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Either dried Thai chilies are spicy or mala hotpots, or they are not baked sweets, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_806_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy and are mala hotpots, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are not products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_806_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are mala hotpots and not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are not products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_806_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are either spicy, or they are a mala hotpot or not a baked sweet (or both), but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are not products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_806_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are either mala hotpots or not baked sweets, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are not products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_807_319",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy or mala hotpots or not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are a mala hotpot.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_807_319",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy and mala hotpots, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are a mala hotpot.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_807_319",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are mala hotpots and not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are a mala hotpot.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_807_319",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are either spicy or mala hotpots, but not both, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are a mala hotpot.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_807_319",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy or mala hotpots or baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are a mala hotpot.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_808_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy and mala hotpots, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are neither products of Baked by Melissa nor baked sweets.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_808_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are mala hotpots and not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are neither products of Baked by Melissa nor baked sweets.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_808_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are either spicy or mala hotpots, but not both, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are neither products of Baked by Melissa nor baked sweets.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_808_319",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are either mala hotpots or not baked sweets, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are neither products of Baked by Melissa nor baked sweets.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_809_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy and mala hotpots, or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are cupcakes and products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_809_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are spicy, or they are mala hotpots and not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are cupcakes and products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_809_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are either spicy or mala hotpots (but not both), or they are not baked sweets.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are cupcakes and products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_809_319",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nNo baked sweets are spicy. All cupcakes are baked sweets. All mala hotpots are spicy. All products from Baked by Melissa are cupcakes. Dried Thai chilies are either (spicy or mala hotpots) or not baked sweets, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dried Thai chilies are cupcakes and products of Baked by Melissa.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_755_306",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nIf a restaurant is listed in Yelp\u2019s recommendations, then the restaurant has not received many negative reviews. All restaurants with a rating greater than four are listed in Yelp\u2019s recommendations. There is a restaurant and a negative review such that if the restaurant provides take-out service, it receives that negative review. All restaurants that are popular among local residents have ratings greater than four. The Hamden Plaza Subway store has a rating greater than four, or it is popular among local residents.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Hamden Plaza Subway store provides take-out service or does not receive many negative reviews.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_755_306",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nIf a restaurant is listed in Yelp\u2019s recommendations, then the restaurant has not received many negative reviews. All restaurants with a rating greater than four are listed in Yelp\u2019s recommendations. Some restaurants that do not provide take-out service receive many negative reviews. All restaurants that are popular among local residents have ratings greater than four. Every rating is a rating of the Hamden Plaza Subway store and is greater than 4, or the Hamden Plaza Subway store is popular among local residents.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Hamden Plaza Subway store provides take-out service or does not receive many negative reviews.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_756_306",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEvery restaurant listed in Yelp's recommendations has received a negative review. All restaurants with a rating greater than four are listed in Yelp\u2019s recommendations. Some restaurants that do not provide take-out service receive many negative reviews. All restaurants that are popular among local residents have ratings greater than four. The Hamden Plaza Subway store has a rating greater than four, or it is popular among local residents.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Hamden Plaza store does not provide take-out service.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_756_306",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf a restaurant is listed in Yelp\u2019s recommendations, then the restaurant has not received many negative reviews. All restaurants with a rating greater than four are listed in Yelp\u2019s recommendations. There exists a restaurant and a review such that if the restaurant provides take-out service, then the review is negative and the restaurant receives it. All restaurants that are popular among local residents have ratings greater than four. The Hamden Plaza Subway store has a rating greater than four, or it is popular among local residents.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Hamden Plaza store does not provide take-out service.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_756_306",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf a restaurant is listed in Yelp\u2019s recommendations, then the restaurant has not received many negative reviews. All restaurants with a rating greater than four are listed in Yelp\u2019s recommendations. Some restaurants that do not provide take-out service receive many negative reviews. All restaurants that are popular among local residents have ratings greater than four. The Hamden Plaza Subway store has all possible ratings and all of them are greater than four, or it is popular among local residents.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Hamden Plaza store does not provide take-out service.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_933_352",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll business organizations are legal entities. All companies are business organizations. All private companies are companies. All legal entities are created under law. All legal entities have legal obligations. If the Harvard Weekly Book Club is created under law, then it is a private company.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Harvard Weekly Book club has legal obligations.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1366_472",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll animals are invertebrates or vertebrates, or both. All animals with backbones reproduce by male-and-female mating. All vertebrate animals have a backbone. All bees do not reproduce by male-and-female mating. All queen bees are bees. Harry is a bee.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Harry is a queen bee.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1366_472",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAnimals are either invertebrates or vertebrates. All animals with backbones reproduce by male-and-female mating. All vertebrate animals have a backbone. All bees reproduce by male-and-female mating. All queen bees are bees. Harry is a bee.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Harry is a queen bee.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1011_379",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople who are born in a multiple birth with siblings spend a lot of time hanging out with and playing with their siblings. If people have siblings who were born together, then they were born in a multiple birth. If people complain often about annoying siblings, then they have siblings who were born together. If people live at home, then they live with strangers. If people spend a lot of time hanging out with and playing with their siblings, then they often live at home. Luke either is a baby born in a multiple birth and live with strangers, or is not a baby born in a multiple birth and does not live with strangers\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Luke spends a lot of time hanging out and playing with his siblings.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1011_379",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople who are born in a multiple birth with siblings spend a lot of time hanging out with and playing with their siblings. If people have siblings who were born together, then they were born in a multiple birth. If people complain often about annoying siblings, then they have siblings who were born together. If people live at home, then they do not live with strangers. If people spend a lot of time hanging out with and playing with their siblings, then they often live at home. Luke was not born in a multiple birth and Luke does not live with strangers.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Luke spends a lot of time hanging out and playing with his siblings.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1011_379",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPeople who are born in a multiple birth with siblings spend a lot of time hanging out with and playing with their siblings. If people have siblings who were born together, then they were born in a multiple birth. If people complain often about annoying siblings, then they have siblings who were born together. If people live at home, then they do not live with strangers. If people spend a lot of time hanging out with and playing with their siblings, then they often live at home. Luke is either born in a multiple birth or lives with strangers, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Luke spends a lot of time hanging out and playing with his siblings.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_560_197",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nIt costs $205 to take the GRE test, which is cheaper than $300. ETS provides financial aid to those GRE applicants who prove economic hardship. Those living in single-parent families and having few resources available to them can prove economic hardship. Tom lives in a single-parent family. Tom's dad has been out of work, and Tom has few resources available to them. Tom is applying to take the GRE test.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? ETS provides financial aid to Tom.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_958_361",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf people spill a lot of food on their clothing, then they are notably tidy. All clumsy foodies who go out frequently to find new food restaurants to try are people who spill a lot of food on their clothing. If people are cleanly, then they are notably tidy. If people value order and spotlessness, then they are cleanly. All people whose families prioritize order and spotlessness themselves value order and spotlessness. Peter is either a person who spills a lot of food on his clothing and is cleanly, or a person who does not spill a lot of food on his clothing and is not cleanly\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Peter is notably tidy.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_958_361",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf people spill a lot of food on their clothing, then they are not notably tidy. All clumsy foodies who go out frequently to find new food restaurants to try are people who spill a lot of food on their clothing. If people are cleanly, then they are notably tidy. If people value order and spotlessness, then they are cleanly. All people whose families prioritize order and spotlessness themselves value order and spotlessness. Peter does not spill a lot of food on his clothing and is not cleanly.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Peter is notably tidy.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_958_361",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf people spill a lot of food on their clothing, then they are not notably tidy. All clumsy foodies who go out frequently to find new food restaurants to try are people who spill a lot of food on their clothing. If people are cleanly, then they are notably tidy. If people value order and spotlessness, then they are cleanly. All people whose families prioritize order and spotlessness themselves value order and spotlessness. Peter either spills a lot of food on his clothing or is cleanly, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Peter is notably tidy.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_370_124",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nThe Picuris Mountains are a mountain range and are in New Mexico or Texas. Juan de Onate visited the Picuris Mountains. The Harding Pegmatite Mine, located in the Picuris Mountains, was donated. There are no mountain ranges in texas that have mines that have been donated.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Juan de Onate visited a mountain range in New Mexico.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_371_124",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nThe Picuris Mountains are a mountain range and are in New Mexico or Texas. Juan de Onate visited the Picuris Mountains. The Harding Pegmatite Mine, located in the Picuris Mountains, was donated. There are no mountain ranges in texas that have mines that have been donated.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Juan de Onate visited a mountain range in Texas.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_372_124",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nThe Picuris Mountains are a mountain range and are in New Mexico or Texas. Juan de Onate visited the Picuris Mountains. The Harding Pegmatite Mine, located in the Picuris Mountains, was donated. There are no mountain ranges in texas that have mines that have been donated.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? The Harding Pegmatite Mine is not located in a mountain range in New Mexico.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_578_203",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nPlungers suck. Vacuums suck. Vampires suck. Space is a vacuum. A duster is a household appliance and it sucks.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Space sucks.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_579_203",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nPlungers suck. Vacuums suck. Vampires suck. Space is a vacuum. A duster is a household appliance and sucks.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Space is a vampire.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_389_131",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery Machine Learning Algorithm is either a Supervised Learning Algorithm and an Unsupervised Learning Algorithm, or it is a Reinforcement Learning Algorithm. Unsupervised learning algorithms do not require labeled data. The state-of-the-art text summarization model is trained with machine learning algorithms. Reinforcement learning is not used to train the state-of-the-art text summarization model. The Machine Learning algorithm for training text summarization models requires labeled data.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Unsupervised learning is used to train the state-of-the-art text summarization model.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_389_131",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery Machine Learning Algorithm is a Supervised Learning Algorithm, or is an Unsupervised Learning Algorithm and a Reinforcement Learning Algorithm. Unsupervised learning algorithms do not require labeled data. The state-of-the-art text summarization model is trained with machine learning algorithms. Reinforcement learning is not used to train the state-of-the-art text summarization model. The Machine Learning algorithm for training text summarization models requires labeled data.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Unsupervised learning is used to train the state-of-the-art text summarization model.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_389_131",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery Machine Learning Algorithm is either a Supervised Learning Algorithm or an Unsupervised Learning Algorithm (but not both), or it is a Reinforcement Learning Algorithm, or both. Unsupervised learning algorithms do not require labeled data. The state-of-the-art text summarization model is trained with machine learning algorithms. Reinforcement learning is not used to train the state-of-the-art text summarization model. The Machine Learning algorithm for training text summarization models requires labeled data.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Unsupervised learning is used to train the state-of-the-art text summarization model.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_389_131",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nEvery Machine Learning Algorithm is a Supervised Learning Algorithm, or it is either an Unsupervised Learning Algorithm or a Reinforcement Learning Algorithm, but not both. Unsupervised learning algorithms do not require labeled data. The state-of-the-art text summarization model is trained with machine learning algorithms. Reinforcement learning is not used to train the state-of-the-art text summarization model. The Machine Learning algorithm for training text summarization models requires labeled data.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Unsupervised learning is used to train the state-of-the-art text summarization model.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_389_131",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nMachine Learning algorithms can be categorized as supervised learning, unsupervised learning, and reinforcement learning. Unsupervised learning algorithms do not require labeled data. The state-of-the-art text summarization model is trained with machine learning algorithms. The state-of-the-art text summarization model is trained with every Reinforcement Learning Algorithm. The Machine Learning algorithm for training text summarization models requires labeled data.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Unsupervised learning is used to train the state-of-the-art text summarization model.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1327_460",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf a film is appropriate for people of all ages, then children can watch it without guidance from parents. If a film contains excessive erotic and violent content, children can watch it without guidance from their parents. If a film is rated General Audience, then it is appropriate for people of all ages. All family-friendly animated films are rated General Audience. All movies in the Frozen series are family-friendly animated films. \u201cHachi: A dog\u2019s Tale\u201d is a film. \u201cHachi: A dog\u2019s Tale\u201d  is either a family-friendly animated film or is appropriate for people of all ages.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? \"Hachi: A dog's Tale\" is rated General Audience.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1410_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship, but not both. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina she can register to vote in the United States, or she is a Russian federation official.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1410_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir does not hold Taiwanese citizenship and he is a manager at Gazprom. Ekaterina she can register to vote in the United States, or she is a Russian federation official.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1410_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina is Russian and a Federation Official, and she can register to vote in the United States.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1410_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina is either a Russian federation official or she can register to vote in the United States, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1411_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. Every person either has United States citizenship or Taiwanese citizenship, but not both. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina she can register to vote in the United States, or she is a Russian federation official.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is not a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1411_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir does not have Taiwanese citizenship and he is a manager at Gazprom. Ekaterina she can register to vote in the United States, or she is a Russian federation official.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is not a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1411_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina is Russian and a Federation Official, and she can register to vote in the United States.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is not a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1411_483",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina is either Russian and a Federation Official, or she can register to vote in the United States, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Vladimir is not a Russian federation official\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1412_483",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. Every person has United States citizenship and Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina she can register to vote in the United States, or she is a Russian federation official.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Ekaterina can participate in the 2024 United States presidential election or is a manager at Gazprom.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1412_483",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina is Russian and she is a Federation Official and she can register to vote in the United States.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Ekaterina can participate in the 2024 United States presidential election or is a manager at Gazprom.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1413_483",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. Everyone has United States citizenship and Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina she can register to vote in the United States, or she is a Russian federation official.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Ekaterina can participate in the 2024 United States presidential election or Vladimir is a manager at Gazprom.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1413_483",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nEveryone who can register to vote in the United States can participate in the 2024 United States presidential election. If someone has United States citizenship, then they can register to vote in the United States. A person either has United States citizenship or Taiwanese citizenship. No Russian Federation officials hold Taiwanese citizenship. Vladimir neither holds Taiwanese citizenship nor is he a manager at Gazprom. Ekaterina is Russian and she is a Federation Official and she can register to vote in the United States.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Ekaterina can participate in the 2024 United States presidential election or Vladimir is a manager at Gazprom.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_802_318",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nSome show airing at 8 pm on Monday gives out roses on TV. If a show gives out roses on TV, then the show is an episode of The Bachelor. The Bachelor portrays the lives of real people. All shows portraying the lives of real people are reality TV shows. Breaking Bad is a show. Breaking Bad is a reality TV show.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Breaking Bad is on Monday at 8 pm.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1032_386",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nIf something is a deadly disease, then it comes with a low survival rate. Severe cancers are deadly diseases. Bile duct cancer is a severe form cancer. All Cholangiocarcinoma is bile duct cancer. All mild flu comes with a low survival rate. Colorectal cancer is not both a bile duct cancer and with a low survival rate.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Colorectal cancer is a kind of severe cancer\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1033_386",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nIf something is a deadly disease, then it comes with a low survival rate. Severe cancers are deadly diseases. Bile duct cancer is a severe form cancer. All Cholangiocarcinoma is bile duct cancer. All mild flu comes with a low survival rate. Colorectal cancer is not both a bile duct cancer and with a low survival rate.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If colorectal cancer is a kind of bile duct cancer or a form of Cholangiocarcinoma, then colorectal cancer is a kind of bile duct cancer and a kind of mild flu.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1034_386",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nIf something is a deadly disease, then it comes with a low survival rate. Severe cancers are deadly diseases. Bile duct cancer is a severe form cancer. All Cholangiocarcinoma is bile duct cancer. Every mild flu comes with a low survival rate. Colorectal cancer is not both a bile duct cancer and with a low survival rate.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Colorectal cancer is a form of Cholangiocarcinoma and it is a kind of mild flu or a kind of bile duct cancer, or all of the above.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_941_355",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll people who eat salads regularly are very conscious about their health and eating habits. All people who grew up in health-conscious childhood homes eat salads regularly. All people who fulfill their daily nutritional intakes grew up in health-conscious childhood homes. All people who disregard their physical well-being are conscious about their health and eating habits. If people visit the gym at least once a day, then they always fulfill their daily nutritional intakes. Taylor either grew up in a health-conscious childhood home and disregard her physical well-being, or she did neither.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Taylor eats salads regularly.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_941_355",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll people who eat salads regularly are very conscious about their health and eating habits. All people who grew up in health-conscious childhood homes eat salads regularly. All people who fulfill their daily nutritional intakes grew up in health-conscious childhood homes. All people who disregard their physical well-being are not very conscious about their health and eating habits. If people visit the gym at least once a day, then they always fulfill their daily nutritional intakes. Taylor did not grow up in a health-conscious childhood home and does not disregard her physical well-being.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Taylor eats salads regularly.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_941_355",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll people who eat salads regularly are very conscious about their health and eating habits. All people who grew up in health-conscious childhood homes eat salads regularly. All people who fulfill their daily nutritional intakes grew up in health-conscious childhood homes. All people who disregard their physical well-being are not very conscious about their health and eating habits. If people visit the gym at least once a day, then they always fulfill their daily nutritional intakes. Taylor either grew up in a health-conscious childhood home or she disregards her physical well-being, but not both.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Taylor eats salads regularly.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1268_441",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nEveryone who is nice to animals is also mean to animals. Some grumpy people are mean to animals. All animal lovers are nice to animals. All pet owners love animals. Tom is a pet owner.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Tom is a grumpy person.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_189_64",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nAll podcasts are novels. If a person is born in American City, the person is American. If a book is a novel and it is written by a person, then the person is a novel writer. Dani Shapiro is an American writer. Family History is written by Dani Shapiro. Family History is a novel written in 2003. Dani Shapiro created a podcast called Family Secrets. Boston is an American city.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dani Shapiro is a novel writer.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_191_64",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nAll podcasts are novels. If a person is born in American City, the person is American. If a book is a novel and it is written by a person, then the person is a novel writer. Dani Shapiro is an American writer. Family History is written by Dani Shapiro. Family History is a novel written in 2003. Dani Shapiro created a podcast called Family Secrets. Boston is an American city.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Dani Shapiro was born in Boston.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1313_456",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nSome professional basketball players are American nationals. All professional basketball players can do jump shots. If someone can jump shots, they leap straight into the air. If someone leaps straight into the air, they activate their leg muscles. Yuri does not activate his leg muscles.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Yuri is an American national.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1313_456",
+        "num_edits_preserving_label":1,
+        "label":"C",
+        "question":"Context:\nSome professional basketball players are not American nationals. All professional basketball players can do jump shots. If someone can jump shots, they leap straight into the air. If someone leaps straight into the air, they activate their leg muscles. Yuri activates his leg muscles.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Yuri is an American national.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1314_456",
+        "num_edits_preserving_label":1,
+        "label":"A",
+        "question":"Context:\nSome professional basketball players are American nationals. All professional basketball players can do jump shots. If someone can jump shots, they leap straight into the air. If someone leaps straight into the air, they activate their leg muscles. Yuri does not activate his leg muscles.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Yuri is not an American professional basketball player.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1315_456",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nSome professional basketball players are American nationals. All professional basketball players can do jump shots. If someone can jump shots, they leap straight into the air. If someone leaps straight into the air, they activate their leg muscles. Yuri does not activate his leg muscles.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? Yuri is an American professional basketball player.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1316_456",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nSome professional basketball players are American nationals. All professional basketball players can do jump shots. If someone can jump shots, they leap straight into the air. If someone leaps straight into the air, they activate their leg muscles. Yuri does not activate his leg muscles.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If Yuri does not leap straight into the air, then Yuri is an American professional basketball player.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    },
+    {
+        "id":"FOLIO_test_1317_456",
+        "num_edits_preserving_label":1,
+        "label":"B",
+        "question":"Context:\nSome professional basketball players are American nationals. All professional basketball players can do jump shots. If someone can jump shots, they leap straight into the air. If someone leaps straight into the air, they activate their leg muscles. Yuri does not activate his leg muscles.\n\nQuestion: Based on the above information, is the following statement true, false, or uncertain? If Yuri is not an American professional basketball player, then Yuri is a professional basketball player.\n\nOptions:\nA) True\nB) False\nC) Uncertain\n"
+    }
+]
